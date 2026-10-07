@@ -71,3 +71,9 @@ imports = [ inputs.looking-glass.nixosModules.default ];
   };
 }
 ```
+
+## To do
+- [ ] Add support for client options.
+- [ ] Research solution for automatic readme.md option reference generation.
+- [ ] Add tests.
+- [ ] Setup CI.
